@@ -1,0 +1,54 @@
+body {
+	
+	
+	background: black;
+	font-family: 'Raleway', sans-serif;
+}
+
+.episode {
+
+color: #ccccff;
+}
+
+.text {
+	color: #55955F;
+}
+
+.image {
+
+	width: 50%;
+	float:left;
+	order: 1;
+	height: 400px;
+}
+
+
+.dub {
+height: 400px;
+display:flex;
+align align-items: top;
+
+
+}
+
+.content{
+
+width: 50%;
+order: 2;
+padding-left: 20px;
+}
+
+.dub2 {
+height: 400px;
+display:flex;
+align align-items: top;
+
+margin-bottom: 100px;
+}
+
+.button{
+	background: whitesmoke;
+	padding: 10px;
+	border-radius: 20px;
+	cursor:pointer;
+}
